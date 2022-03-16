@@ -15,3 +15,4 @@ public class Rectangle_area_method {
         return a * b;
     }
 }
+
